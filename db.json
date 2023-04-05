@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sivanesan",
+      "email": "admin@gmail.com",
+      "phone": 1234567890,
+      "status": "0"
+    },
+    {
+      "id": 2,
+      "name": "suresh",
+      "email": "test@gmail.com",
+      "phone": 987654321,
+      "status": "1"
+    },
+    {
+      "name": "sivanesan",
+      "email": "siva23ms@gmail.com",
+      "phone": 232323,
+      "status": "1",
+      "id": 3
+    },
+    {
+      "name": "sivanesan",
+      "email": "qq",
+      "phone": 11,
+      "status": "1",
+      "id": 4
+    }
+  ]
+}
